@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokaup&hide=php,html,css,asp,c#&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-|property|data|
+|Property|Data|
 |---|---|
 |**Language/IDE**|Javascript/Typescript, Python, Go, HTML/CSS|
 |**Domain Knowledge**|Software Development, Mobile Development, System Architecture|
