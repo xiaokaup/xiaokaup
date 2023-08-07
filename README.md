@@ -14,7 +14,7 @@
 |---|---|
 |**Language/IDE**|Javascript/Typescript, Python, Go, HTML/CSS|
 |**Domain Knowledge**|Software Development, Mobile Development, System Architecture|
-|**CI/CD**|AWS, Github, Git|
+|**CI/CD**|AWS Code Pipeline, Github, Git|
 |**Databases**|Postgresql, MySQL, MongoDB|
 |**OS**|Windows, MacOS, Ubuntu|
 |**Tools & Platform**|AWS, Azure, GCP|
