@@ -17,7 +17,7 @@
 |**CI/CD**|AWS Code Pipeline, Github, Git|
 |**Databases**|Postgresql, MySQL, MongoDB|
 |**OS**|Windows, MacOS, Ubuntu|
-|**Tools & Platform**|AWS, Azure, GCP|
+|**Tools & Platform**|AWS, Azure, GCP Firebase|
 |**Software Framework**|React, React Native, Next.js, Node.js, Django, Flask, Cypress|
 
 <!---
