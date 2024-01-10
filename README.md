@@ -12,7 +12,7 @@
 
 |Property|Data|
 |---|---|
-|**Language/IDE**|Javascript/Typescript, Python, Go, HTML/CSS|
+|**Language/IDE**|Javascript/Typescript, Python, Java, Go, HTML/CSS|
 |**Domain Knowledge**|Software Development, Mobile Development, System Architecture|
 |**CI/CD**|AWS Code Pipeline, Github, Git|
 |**Databases**|Postgresql, MySQL, MongoDB|
