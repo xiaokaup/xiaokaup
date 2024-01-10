@@ -12,7 +12,10 @@
 
 |Property|Data|
 |---|---|
-|**Language/IDE**|Javascript/Typescript, Python, Java, Go, HTML/CSS|
+|**Language/IDE**|JavaScript/Typescript, Python, Java, Go, SQL, HTML/CSS|
+|**Frontend**|React, Next.js, Angular, WordPress, Electron (Desktop)|
+|**Mobile**|React Native, Expo (Kotlin, C++), Google Play Store, Apple Store|
+|**Backend**|Node.js, Express, Django, Flask, Sprint Boot, AWS Lambda and API Gateway|
 |**Domain Knowledge**|Software Development, Mobile Development, System Architecture|
 |**CI/CD**|AWS Code Pipeline, Github, Git|
 |**Databases**|Postgresql, MySQL, MongoDB|
