@@ -16,6 +16,7 @@
 |**Frontend**|React, Next.js, Angular, WordPress, Electron (Desktop)|
 |**Mobile**|React Native, Expo (Kotlin, C++), Google Play Store, Apple Store|
 |**Backend**|Node.js, Express, Django, Flask, Sprint Boot, AWS Lambda and API Gateway|
+|**Test**|Jest, Mocha(Unit test), Test E2E(TDD, Cypress, Detox), Cucumber(BDD)|
 |**Domain Knowledge**|Software Development, Mobile Development, System Architecture|
 |**CI/CD**|AWS Code Pipeline, Github, Git|
 |**Databases**|Postgresql, MySQL, MongoDB|
