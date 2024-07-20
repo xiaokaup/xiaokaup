@@ -12,13 +12,14 @@
 
 | Property               | Data                                                                            |
 | ---------------------- | ------------------------------------------------------------------------------- |
-| **Language/IDE**       | JavaScript/Typescript, Python, Java, Golang, SQL, HTML/CSS                      |
+| **Language/IDE**       | JavaScript/Typescript, Python, Java, Golang, SQL, HTML/CSS, Git                 |
 | **Frontend**           | React, Next.js, Angular, WordPress, Electron (Desktop)                          |
 | **Mobile**             | React Native, Expo (Kotlin, C++), Google Play Store, Apple Store                |
 | **Backend**            | Node.js, Express, Django/Flask/FastAPI, Sprint Boot, AWS Lambda and API Gateway |
 | **Test**               | Jest, Mocha(Unit test), Test E2E(TDD, Cypress, Detox), Cucumber(BDD), SonarQube |
-| **CI/CD**              | AWS Code Pipeline, Github Action, Git                                           |
+| **CI/CD**              | AWS Code Pipeline, Github Action, GitLab CI                                     |
 | **Databases**          | Postgresql, MySQL, MongoDB                                                      |
+| **Deployment**         | Terraform, Terragrunt                                                           |
 | **Monitoring**         | Datadog, fluent-bit                                                             |
 | **OS**                 | Windows, MacOS, Linux                                                           |
 | **Tools & Platform**   | AWS, Azure, GCP Firebase                                                        |
