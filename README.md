@@ -16,13 +16,14 @@
 | **Frontend**           | React, Next.js, Angular, WordPress, Electron (Desktop)                          |
 | **Mobile**             | React Native, Expo (Kotlin, C++), Google Play Store, Apple Store                |
 | **Backend**            | Node.js, Express, Django/Flask/FastAPI, Sprint Boot, AWS Lambda and API Gateway |
-| **Test**               | Jest, Mocha(Unit test), Test E2E(TDD, Cypress, Detox), Cucumber(BDD)            |
-| **Domain Knowledge**   | Software Development, Mobile Development, System Architecture                   |
+| **Test**               | Jest, Mocha(Unit test), Test E2E(TDD, Cypress, Detox), Cucumber(BDD), SonarQube |
 | **CI/CD**              | AWS Code Pipeline, Github Action, Git                                           |
 | **Databases**          | Postgresql, MySQL, MongoDB                                                      |
+| **Monitoring**         | Datadog, fluent-bit                                                             |
 | **OS**                 | Windows, MacOS, Linux                                                           |
 | **Tools & Platform**   | AWS, Azure, GCP Firebase                                                        |
 | **Software Framework** | React, React Native, Next.js, Electron, Node.js, Django/Flask/FastAPI, Cypress  |
+| **Domain Knowledge**   | Software Development, Mobile Development, System Architecture                   |
 
 <!---
 xiaokaup/xiaokaup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
