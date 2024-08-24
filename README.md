@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jiean.yang786@gmail.com
-- 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/jieanyang/)
+<!-- - 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/jieanyang/) -->
 - 💪 Know about my skills: [Github](https://github.com/xiaokaup/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaokaup&show_icons=true&hide=contribs,issues)
