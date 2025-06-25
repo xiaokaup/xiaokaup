@@ -17,6 +17,7 @@
 | **Mobile**             | React Native, Expo (Kotlin, C++), Google Play Store, Apple Store                |
 | **Backend**            | Node.js, Express, Django/Flask/FastAPI, Sprint Boot, AWS Lambda and API Gateway |
 | **Test**               | Jest, Mocha(Unit test), Test E2E(TDD, Cypress, Detox), Cucumber(BDD), SonarQube |
+| **Container**          | Docker, Kubernetes                                                              |
 | **CI/CD**              | AWS Code Pipeline, Github Action, GitLab CI                                     |
 | **Databases**          | Postgresql, MySQL, MongoDB                                                      |
 | **Deployment**         | Terraform, Terragrunt                                                           |
