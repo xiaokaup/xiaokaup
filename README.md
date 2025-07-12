@@ -13,7 +13,7 @@
 | Property               | Data                                                                            |
 | ---------------------- | ------------------------------------------------------------------------------- |
 | **Language/IDE**       | JavaScript/Typescript, Python, Java, Golang, SQL, HTML/CSS, Git                 |
-| **Frontend**           | React, Next.js, Angular, WordPress, Electron (Desktop)                          |
+| **Frontend**           | React, Next.js, Angular, Chrome Extension, WordPress, Electron (Desktop)                          |
 | **Mobile**             | React Native, Expo (Kotlin, C++), Google Play Store, Apple Store                |
 | **Backend**            | Node.js, Express, Django/Flask/FastAPI, Sprint Boot, AWS Lambda and API Gateway |
 | **Test**               | Jest, Mocha(Unit test), Test E2E(TDD, Cypress, Detox), Cucumber(BDD), SonarQube |
